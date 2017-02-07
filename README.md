@@ -24,7 +24,7 @@ A curated list of high quality resources for functional programming.
 
 ### Monads
 * [Don’t fear the monad (video)](https://www.youtube.com/watch?v=ZhuHCtR3xq8)	Good introduction to monads and monoids
-* [Functor → Applicative](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) [→ Monads Monad Ladder](http://learnyouahaskell.com/a-fistful-of-monads) from LYAHFGG
+* [Functor → Applicative](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) [→ Monads](http://learnyouahaskell.com/a-fistful-of-monads) Monad Ladder from LYAHFGG
 * [Free Monads (video)](https://www.youtube.com/watch?v=M258zVn4m2M)
 * &#x1F534; More detail about free monads
 * &#x1F534; Monad Transformers
