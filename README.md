@@ -15,7 +15,7 @@ A curated list of high quality resources for learning functional programming.
 ## Key Concepts
 * [FP Skills (Standardized Ladder of FP)](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
 * [Fantasyland Spec: Algebraic Structures in JS](https://github.com/fantasyland/fantasy-land) Most data types with their laws
-* [Rambda Docs](http://ramdajs.com/docs/#lens) Commonly used functions explained well
+* [Rambda Docs](http://ramdajs.com/docs) Commonly used functions explained well
 
 ### Functors
 * &#x1F534; Good functor introduction?
