@@ -2,6 +2,7 @@
 A curated list of high quality resources for learning functional programming.
  
 &#x1F534; = The concept/resource is missing a source or requires a better alternative.
+
 :star: = Flerp's Faves
 
 ## Useful Books
