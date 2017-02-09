@@ -10,7 +10,6 @@ A curated list of high quality resources for learning functional programming.
 * [Learn you a haskell LYAHFGG](http://learnyouahaskell.com/chapters)
 * [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [Programming in haskell (not free)](http://www.cs.nott.ac.uk/~pszgmh/pih.html) :star:
-* &#x1F534; [Learn Scalaz (Some good stuff but very poorly written)](http://eed3si9n.com/learning-scalaz/7.0/)
 
 ## Key Concepts
 * [FP Skills (Standardized Ladder of FP)](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
