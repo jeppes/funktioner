@@ -22,6 +22,7 @@ A curated list of high quality resources for learning functional programming.
 * [Contravariant Functors, Profunctors (video)](https://www.youtube.com/watch?v=JZPXzJ5tp9w) :star:
 
 ### &#x1F534; Applicatives
+* &#x1F534; Alternative
 
 ### Monads
 * [Don’t fear the monad (video)](https://www.youtube.com/watch?v=ZhuHCtR3xq8)	Good introduction to monads and monoids :star:
@@ -29,6 +30,7 @@ A curated list of high quality resources for learning functional programming.
 * [Free Monads (video)](https://www.youtube.com/watch?v=M258zVn4m2M)
 * &#x1F534; More details about free monads
 * &#x1F534; Monad Transformers
+* &#x1F534; MonadPlus
 * &#x1F534; Continuations
 * &#x1F534; Comonads
 
