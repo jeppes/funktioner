@@ -44,6 +44,9 @@ A curated list of high quality resources for learning functional programming.
 * [Category Theory by Wadler (video)](https://www.youtube.com/watch?v=V10hzjgoklA) products, sums/coproducts, exponentials :star:
 * [Comprehensive Lecture Series (advanced, video)](https://www.youtube.com/watch?v=ZKmodCApZwk)
 
+### Compiler Design for functional languages
+* [Monadic Parser Combinators, Hutton & Meijer](unpetitaccident.com/pub/compeng/languages/Haskell/monparsing.pdf)
+
 ### &#x1F534; Foldables, Traverseables
 
 ### &#x1F534; Embedding DSLs
@@ -51,5 +54,3 @@ A curated list of high quality resources for learning functional programming.
 ### &#x1F534; Persistent Data Structures
 
 ### &#x1F534; Flux/Redux
-
-### &#x1F534; Compiler Design for functional languages
