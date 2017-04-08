@@ -17,7 +17,7 @@ A curated list of high quality resources for learning functional programming.
 * [Rambda Docs](http://ramdajs.com/docs) Commonly used functions explained well
 
 ### Functors
-* &#x1F534; Good functor introduction?
+* [Simple Visual guide to Functors, Applicatives and Monads](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [Functor Laws and functions (JS)](https://github.com/fantasyland/fantasy-land#functor)
 * [Contravariant Functors, Profunctors (video)](https://www.youtube.com/watch?v=JZPXzJ5tp9w) :star:
 
@@ -44,13 +44,13 @@ A curated list of high quality resources for learning functional programming.
 * [Category Theory by Wadler (video)](https://www.youtube.com/watch?v=V10hzjgoklA) products, sums/coproducts, exponentials :star:
 * [Comprehensive Lecture Series (advanced, video)](https://www.youtube.com/watch?v=ZKmodCApZwk)
 
-### Compiler Design for functional languages
+### Compiler Construction
 * [Monadic Parser Combinators, Hutton & Meijer](http://unpetitaccident.com/pub/compeng/languages/Haskell/monparsing.pdf)
 
 ### &#x1F534; Foldables, Traverseables
 
-### &#x1F534; Embedding DSLs
+### &#x1F534; Domain Specific Languages
 
 ### &#x1F534; Persistent Data Structures
 
-### &#x1F534; Flux/Redux
+### &#x1F534; Functional Program Architecture
