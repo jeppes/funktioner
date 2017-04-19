@@ -42,7 +42,7 @@ A curated list of high quality resources for learning functional programming.
 
 ### Category Theory
 * [Category Theory by Wadler (video)](https://www.youtube.com/watch?v=V10hzjgoklA) products, sums/coproducts, exponentials :star:
-* [Comprehensive Lecture Series (advanced, video)](https://www.youtube.com/watch?v=ZKmodCApZwk)
+* [Lecture Series (video)](https://www.youtube.com/watch?v=I8LbkfSSR58)
 
 ### Compiler Construction
 * [Monadic Parser Combinators, Hutton & Meijer](http://unpetitaccident.com/pub/compeng/languages/Haskell/monparsing.pdf)
