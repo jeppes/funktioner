@@ -8,7 +8,6 @@ A curated list of high quality resources for learning functional programming.
 ## Useful Books
 * [Professor Frisbys Mostly Adequate Guide To Functional Programming (JS)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 * [Learn you a haskell LYAHFGG](http://learnyouahaskell.com/chapters)
-* [Real World Haskell](http://book.realworldhaskell.org/read/)
 * [Programming in haskell (not free)](http://www.cs.nott.ac.uk/~pszgmh/pih.html) :star:
 
 ## Key Concepts
