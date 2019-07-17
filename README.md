@@ -1,5 +1,3 @@
-# Flerp’s Guide to Functional Programming
-
 This is a collection of the resources I've found most useful when exploring the world of functional programming.
 
 ### Books
