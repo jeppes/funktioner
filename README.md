@@ -4,6 +4,7 @@ This is a collection of the resources I've found most useful when exploring the 
 * [Professor Frisbys Mostly Adequate Guide To Functional Programming (JS)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 * [Learn you a haskell LYAHFGG](http://learnyouahaskell.com/chapters)
 * [Programming in haskell (not free)](http://www.cs.nott.ac.uk/~pszgmh/pih.html) :star:
+* [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/) :star:
 
 ### Overviews
 * [FP Skills (Standardized Ladder of FP)](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
