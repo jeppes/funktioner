@@ -1,4 +1,4 @@
-This is a collection of the resources I've found most useful when exploring the world of functional programming.
+This is a collection of the resources I've found most when exploring the world of functional programming.
 
 ### Books
 * [Professor Frisbys Mostly Adequate Guide To Functional Programming (JS)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
