@@ -3,8 +3,8 @@ This is a collection of the resources I've found most useful when exploring the 
 ### Books
 * [Professor Frisbys Mostly Adequate Guide To Functional Programming (JS)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 * [Learn you a haskell LYAHFGG](http://learnyouahaskell.com/chapters)
-* [Programming in haskell (not free)](http://www.cs.nott.ac.uk/~pszgmh/pih.html) :star:
-* [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/) :star:
+* [Programming in haskell (not free)](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+* [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/)
 
 ### Overviews
 * [FP Skills (Standardized Ladder of FP)](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
@@ -13,10 +13,10 @@ This is a collection of the resources I've found most useful when exploring the 
 ### Functors
 * [Simple Visual guide to Functors, Applicatives and Monads](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [Functor Laws and functions (JS)](https://github.com/fantasyland/fantasy-land#functor)
-* [Contravariant Functors, Profunctors (video)](https://www.youtube.com/watch?v=JZPXzJ5tp9w) :star:
+* [Contravariant Functors, Profunctors (video)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 
 ### Monads
-* [Don’t fear the monad (video)](https://www.youtube.com/watch?v=ZhuHCtR3xq8)	Good introduction to monads and monoids :star:
+* [Don’t fear the monad (video)](https://www.youtube.com/watch?v=ZhuHCtR3xq8)	Good introduction to monads and monoids
 * [Functor → Applicative](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) [→ Monad](http://learnyouahaskell.com/a-fistful-of-monads) Monad Ladder from LYAHFGG
 * [Free Monads (video)](https://www.youtube.com/watch?v=M258zVn4m2M)
 
@@ -34,7 +34,7 @@ This is a collection of the resources I've found most useful when exploring the 
 ### Patterns
 * [Thirteen Ways of Looking at a Turtle](https://www.youtube.com/watch?v=AG3KuqDbmhM)
 
-### Favorite Papers
+### Papers
 * [Monadic Parser Combinators, Hutton & Meijer](http://unpetitaccident.com/pub/compeng/languages/Haskell/monparsing.pdf)
 * [How to Declare an Imperative, Wadler](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3579&rep=rep1&type=pdf)
 * [Curse of the Excluded Middle, Meijer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.644.5182&rep=rep1&type=pdf)
