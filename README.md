@@ -7,7 +7,6 @@ This is a collection of the resources I've found most when exploring the world o
 * [Structure and Interpretation of Computer Programs](http://sarabander.github.io/sicp/html/)
 
 ### Overviews
-* [FP Skills (Standardized Ladder of FP)](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
 * [Fantasyland Spec: Algebraic Structures in JS](https://github.com/fantasyland/fantasy-land) Most data types with their laws
 
 ### Functors
@@ -35,7 +34,6 @@ This is a collection of the resources I've found most when exploring the world o
 * [Thirteen Ways of Looking at a Turtle](https://www.youtube.com/watch?v=AG3KuqDbmhM)
 
 ### Papers
-* [Monadic Parser Combinators, Hutton & Meijer](http://unpetitaccident.com/pub/compeng/languages/Haskell/monparsing.pdf)
 * [How to Declare an Imperative, Wadler](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.3579&rep=rep1&type=pdf)
 * [Curse of the Excluded Middle, Meijer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.644.5182&rep=rep1&type=pdf)
 * [Functional Reactive Animation, Elliot & Hudak](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.930&rep=rep1&type=pdf)
